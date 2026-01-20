@@ -28,7 +28,9 @@
             "group": "Keywords",
             "icon": "key",
             "expanded": true,
-            "pages": []
+            "pages": [
+              "features/keywords/keyword-research"
+            ]
           },
           {
             "group": "CRM",
