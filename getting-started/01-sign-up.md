@@ -1,0 +1,143 @@
+# 🎯 Getting Started: Sign Up for Copyrocket AI
+
+Welcome! Let's get you set up with Copyrocket AI in just a few minutes.
+
+---
+
+## 📝 Creating Your Account
+
+### Step 1: Visit the Sign-Up Page
+
+Navigate to [Copyrocket AI](https://ma.copyrocket.ai) and click **"Sign Up"** or **"Get Started"**.
+
+### Step 2: Choose Your Sign-Up Method
+
+You have two options:
+
+#### Option A: Sign Up with Google (Recommended) ⚡
+✅ **Fastest method**
+- Click **"Continue with Google"**
+- Select your Google account
+- Grant permissions
+- Done! You're in.
+
+#### Option B: Sign Up with Email 📧
+- Enter your email address
+- Create a strong password (min. 8 characters)
+- Click **"Create Account"**
+- Check your email for verification link
+- Click the verification link to activate your account
+
+---
+
+## 🎉 What Happens Next?
+
+After signing up, you'll be redirected to your **Dashboard**. Here's what you'll see:
+
+### Welcome Dashboard
+- 👋 Personalized greeting
+- 📊 Quick stats overview (empty at first)
+- 🎯 Feature cards showing what you can do
+- 📝 Interactive walkthrough (for free users)
+
+---
+
+## 🔓 Free vs Premium
+
+### Free Plan Includes:
+- ✅ Basic dashboard access
+- ✅ Limited keyword research
+- ✅ Basic SEO insights
+- ✅ Community support
+- ⚠️ Limited AI credits
+- ⚠️ Watermarked reports
+
+### Premium Plans Unlock:
+- 🚀 Unlimited AI credits
+- 🔥 All premium features
+- 📊 Advanced analytics
+- 🤖 Automation agents
+- 🎯 Priority support
+- 📈 White-label reports
+- 💎 WordPress integration
+
+---
+
+## ⚙️ Initial Setup Checklist
+
+After signing up, complete these steps:
+
+- [ ] **Set up your profile** - Add your name and photo
+- [ ] **Connect Google Search Console** - Link your website
+- [ ] **Choose your first property** - Select which site to analyze
+- [ ] **Complete the walkthrough** - Learn the interface
+- [ ] **Run your first audit** - Get instant SEO insights
+
+---
+
+## 🎬 Quick Start Video
+
+> 📹 **Coming Soon**: Watch our 3-minute setup video
+
+---
+
+## 💡 Pro Tips
+
+### ✨ Tip #1: Use Google Sign-In
+Signing up with Google is faster and you won't need to verify your email separately.
+
+### ✨ Tip #2: Add a Profile Photo
+Adding a photo personalizes your experience and helps our support team recognize you.
+
+### ✨ Tip #3: Try Free First
+Start with the free plan to explore features, then upgrade when you're ready.
+
+### ✨ Tip #4: Bookmark Your Dashboard
+Add `https://ma.copyrocket.ai/dashboard` to your bookmarks for quick access.
+
+---
+
+## ❓ Common Issues
+
+### "I Didn't Receive the Verification Email"
+- ✅ Check your spam/junk folder
+- ✅ Wait 5 minutes (sometimes emails are delayed)
+- ✅ Try resending the verification email
+- ✅ Contact support if still not received
+
+### "Google Sign-In Isn't Working"
+- ✅ Make sure pop-ups are enabled in your browser
+- ✅ Clear your browser cache and try again
+- ✅ Try a different browser
+- ✅ Ensure you're using a valid Google account
+
+### "Password Requirements"
+Your password must have:
+- At least 8 characters
+- Mix of uppercase and lowercase letters
+- At least one number
+- Special characters recommended
+
+---
+
+## 🚀 Next Steps
+
+✅ Account created? Great! Let's move on:
+
+1. **[Connect Google Search Console →](./02-connect-gsc.md)**
+2. Learn about your Dashboard
+3. Run your first SEO audit
+
+---
+
+## 💬 Need Help?
+
+- 📧 Email: support@copyrocket.ai
+- 🎫 Support tickets: Available in your dashboard
+- 💭 Live chat: Available for premium users
+
+---
+
+<div align="center">
+  <p><a href="../README.md">← Back to Documentation</a> | <a href="./02-connect-gsc.md">Next: Connect GSC →</a></p>
+</div>

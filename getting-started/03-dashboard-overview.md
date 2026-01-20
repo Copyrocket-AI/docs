@@ -1,0 +1,274 @@
+# 📊 Dashboard Overview
+
+Your command center for SEO success. Let's explore what everything means!
+
+---
+
+## 🎯 Dashboard Layout
+
+Your dashboard is divided into several key sections:
+
+### 1. **Header Bar** 🎨
+- 🏠 Copyrocket AI logo (click to return home)
+- 🔍 Property selector dropdown
+- 🔔 Notifications bell
+- 👤 Profile menu
+
+### 2. **Welcome Section** 👋
+- Personalized greeting with your name
+- Current date and time
+- Quick status summary
+
+### 3. **Key Metrics Cards** 📊
+Four essential metrics at a glance:
+- 👁️ **Impressions** - How many times your site appeared in search
+- 🖱️ **Clicks** - How many people clicked your site
+- 📈 **CTR (Click-Through Rate)** - Percentage of impressions that became clicks
+- 🎯 **Average Position** - Your average ranking position
+
+### 4. **Feature Cards** 🚀
+Quick access to main features:
+- 🤖 AI Chat
+- 🔍 GSC Audit
+- 💡 Content Gap
+- ✅ Checklist
+- 👤 Profile Settings
+- 💎 Subscription
+
+### 5. **Recent Activity** 📝
+- Recent AI chat sessions
+- Latest audit reports
+- Completed tasks
+- Recent analyses
+
+---
+
+## 📈 Understanding Your Metrics
+
+### Impressions 👁️
+**What it means:** Number of times your pages appeared in Google search results.
+
+**Why it matters:** Shows your visibility in search.
+
+**What's good:**
+- ✅ Growing impressions = more visibility
+- ✅ High impressions on target keywords
+- ⚠️ High impressions but low clicks = optimization opportunity
+
+### Clicks 🖱️
+**What it means:** How many people actually clicked through to your site.
+
+**Why it matters:** Direct measure of traffic from Google.
+
+**What's good:**
+- ✅ Steady growth month-over-month
+- ✅ Clicks increasing faster than impressions
+- ⚠️ Declining clicks = investigate immediately
+
+### CTR (Click-Through Rate) 📊
+**What it means:** Clicks ÷ Impressions × 100
+
+**Why it matters:** Shows how compelling your search listings are.
+
+**Benchmarks:**
+- 🏆 **Excellent:** 5%+ for informational, 10%+ for branded
+- ✅ **Good:** 2-5%
+- ⚠️ **Needs Work:** Under 2%
+
+**How to improve:**
+- ✍️ Write better title tags
+- 📝 Optimize meta descriptions
+- ⭐ Add schema markup for rich snippets
+- 🎯 Ensure content matches search intent
+
+### Average Position 🎯
+**What it means:** Your average ranking position across all keywords.
+
+**Why it matters:** Indicates overall SEO health.
+
+**Position Guide:**
+- 🥇 **Position 1-3:** Featured/top results - excellent!
+- ✅ **Position 4-10:** First page - good, aim higher
+- ⚠️ **Position 11-20:** Page 2 - optimization needed
+- ❌ **Position 20+:** Low visibility - major work needed
+
+---
+
+## 🎨 Color-Coded Indicators
+
+### Traffic Lights 🚦
+- 🟢 **Green:** Performance improving or healthy
+- 🟡 **Yellow:** Attention needed, trends declining
+- 🔴 **Red:** Critical issues, immediate action required
+- ⚪ **Gray:** Not enough data yet
+
+### Trend Arrows
+- ↗️ **Up Arrow:** Metric increasing (good for clicks, impressions)
+- ↘️ **Down Arrow:** Metric decreasing
+- → **Flat Arrow:** No significant change
+- % **Percentage:** Shows magnitude of change
+
+---
+
+## 🎯 Property Selector
+
+### Switching Properties
+1. Click the **property dropdown** in the header
+2. Select the website you want to analyze
+3. Dashboard updates instantly with that property's data
+
+### Property Info Shows:
+- 🌐 Website URL
+- ✅ Connection status
+- 📅 Last data sync
+- 📊 Data range available
+
+---
+
+## 📅 Date Range Selector
+
+Control which time period to analyze:
+
+### Preset Ranges:
+- **Last 7 Days** - Weekly performance
+- **Last 28 Days** - Monthly view (default)
+- **Last 3 Months** - Quarterly trends
+- **Last 12 Months** - Annual performance
+- **Custom Range** - Pick specific dates
+
+### Best Practices:
+- 📊 Use **28 days** for standard reports
+- 📈 Use **3 months** to spot trends
+- 🔄 Compare same period year-over-year
+
+---
+
+## 🚀 Quick Actions
+
+### From Dashboard You Can:
+
+1. **Start New AI Chat** 💬
+   - Click "AI Chat" card
+   - Ask questions about your SEO data
+   - Get instant AI-powered insights
+
+2. **Run GSC Audit** 🔍
+   - Click "GSC Audit" card
+   - Get comprehensive SEO report
+   - Identify quick wins
+
+3. **View Content Gaps** 💡
+   - Click "Content Gap" card
+   - Discover content opportunities
+   - Plan your content strategy
+
+4. **Check Tasks** ✅
+   - Click "Tasks" in sidebar
+   - See pending SEO actions
+   - Mark tasks complete
+
+5. **Manage Subscription** 💎
+   - Click profile menu
+   - View current plan
+   - Upgrade for more features
+
+---
+
+## 🎨 Customizing Your Dashboard
+
+### Theme Selection
+Switch between light and dark mode:
+1. Click the **theme toggle** icon (🌙/☀️)
+2. In sidebar footer
+3. Changes apply instantly
+
+### Sidebar Collapse
+Toggle sidebar for more screen space:
+1. Click the **collapse icon** (☰)
+2. Sidebar shows icons only
+3. Hover for full labels
+
+---
+
+## 📱 Mobile Dashboard
+
+Dashboard is fully responsive:
+- 📱 Metrics stack vertically
+- 🎨 Simplified layout
+- ☰ Collapsible menu
+- 👆 Touch-friendly buttons
+
+---
+
+## 💡 Pro Tips
+
+### ✨ Tip #1: Check Daily
+Make it a habit to check your dashboard every morning. Just like checking email!
+
+### ✨ Tip #2: Watch the Trends
+Don't obsess over daily fluctuations. Focus on weekly and monthly trends.
+
+### ✨ Tip #3: Set a Baseline
+Take a screenshot of your dashboard today. Compare monthly to see progress.
+
+### ✨ Tip #4: Free Dashboard Walkthrough
+First-time free users see an interactive walkthrough. Don't skip it!
+
+### ✨ Tip #5: Bookmark Key Views
+Bookmark your dashboard with specific property and date range selected.
+
+### ✨ Tip #6: Compare Periods
+Use the comparison feature to see growth vs. previous period.
+
+---
+
+## 🎯 What to Do If...
+
+### ❓ "My Dashboard is Empty"
+**Likely causes:**
+- Property just connected (wait 5-10 minutes)
+- No GSC data for selected date range
+- Property not collecting data yet
+
+**Solutions:**
+- ✅ Wait a few minutes and refresh
+- ✅ Try a longer date range (last 3 months)
+- ✅ Check GSC directly to verify data exists
+
+### ❓ "Metrics Look Wrong"
+**Check these:**
+- ✅ Correct property selected?
+- ✅ Right date range?
+- ✅ Data synced recently? (check sync timestamp)
+- ✅ Compare with Google Search Console directly
+
+### ❓ "Numbers Different from GSC"
+**This is normal because:**
+- ⏰ GSC data has 2-3 day delay
+- 📊 We may filter certain queries/pages
+- 🔄 Sync timing differences
+- Usually within 5% variance is normal
+
+---
+
+## 🚀 Next Steps
+
+Now that you understand your dashboard:
+
+1. **[Take Your First Steps →](./04-first-steps.md)**
+2. Run your first AI chat session
+3. Generate your first SEO report
+
+---
+
+## 💬 Questions?
+
+- 📧 Email: support@copyrocket.ai
+- 🎫 Support ticket: In-app support
+- 📚 Full docs: [View all features](../README.md)
+
+---
+
+<div align="center">
+  <p><a href="./02-connect-gsc.md">← Back: Connect GSC</a> | <a href="./04-first-steps.md">Next: First Steps →</a></p>
+</div>

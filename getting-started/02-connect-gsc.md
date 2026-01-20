@@ -1,0 +1,242 @@
+# 🔗 Connect Google Search Console
+
+Connect your website to unlock powerful SEO insights and AI-powered analysis.
+
+---
+
+## 🎯 Why Connect Google Search Console?
+
+Google Search Console (GSC) provides essential data about:
+- 🔍 Keywords your site ranks for
+- 📊 Click-through rates and impressions
+- 📈 Position changes over time
+- 🌍 Geographic performance
+- 📱 Mobile vs desktop traffic
+
+**Copyrocket AI analyzes this data** to give you actionable insights and recommendations.
+
+---
+
+## 📋 Prerequisites
+
+Before connecting, ensure:
+- ✅ You have a website
+- ✅ Your site is added to Google Search Console
+- ✅ You have **Owner or Full User** permissions in GSC
+- ✅ Your GSC property has collected some data (at least a few days)
+
+### Don't Have Google Search Console Yet?
+
+1. Visit [Google Search Console](https://search.google.com/search-console)
+2. Click **"Add Property"**
+3. Enter your website URL
+4. Verify ownership (via HTML file, DNS, or Google Analytics)
+5. Wait 24-48 hours for data to populate
+
+---
+
+## 🚀 Connection Steps
+
+### Step 1: Go to Properties
+
+From your Copyrocket AI dashboard:
+1. Click **"Properties"** in the left sidebar
+2. Or click **"Connect Google Search Console"** banner
+
+### Step 2: Authorize Access
+
+1. Click **"Connect New Property"** button
+2. You'll be redirected to Google's authorization page
+3. Select the Google account that has GSC access
+4. Review the permissions requested:
+   - ✅ View Search Console data
+   - ✅ Read website performance
+5. Click **"Allow"**
+
+### Step 3: Select Your Property
+
+1. You'll see a list of all your GSC properties
+2. Select the website you want to analyze
+3. Click **"Connect"**
+4. Wait for the initial sync (30 seconds - 2 minutes)
+
+### Step 4: Verify Connection ✅
+
+You'll see:
+- ✅ Green checkmark next to your property
+- ✅ Initial data appearing in dashboard
+- ✅ Property selector in navigation
+
+---
+
+## 🎯 What Happens After Connection?
+
+### Immediate Actions:
+1. **Data Sync Begins** - Last 3 months of data imported
+2. **AI Analysis Starts** - Keywords and pages analyzed
+3. **Dashboard Populates** - Graphs and metrics appear
+4. **Reports Generated** - First audit created automatically
+
+### Within 24 Hours:
+- 📊 Complete historical data sync
+- 🤖 AI-powered insights ready
+- 🎯 Keyword opportunities identified
+- 📈 Trend analysis available
+
+---
+
+## 🔄 Managing Multiple Properties
+
+### Add More Properties
+
+You can connect multiple websites:
+1. Go to **Properties** page
+2. Click **"Add New Property"**
+3. Repeat the connection process
+4. Switch between properties using the dropdown
+
+### Switch Active Property
+
+Use the property selector in:
+- 🎯 Top navigation bar
+- 📊 Dashboard header
+- 🤖 AI Chat interface
+
+### Best Practices for Multiple Sites
+
+- 🏷️ Name properties clearly (e.g., "Main Site," "Blog," "Store")
+- 🔄 Switch context before running reports
+- 📊 Compare performance across properties
+- ⚡ Free plan: 1 property | Premium: Unlimited
+
+---
+
+## 💡 Pro Tips
+
+### ✨ Tip #1: Connect Your Main Property First
+Start with your highest-traffic website to see the most impressive results.
+
+### ✨ Tip #2: Wait for Data to Accumulate
+If your site is brand new, wait at least 7 days of GSC data before connecting for better insights.
+
+### ✨ Tip #3: Use the Correct Account
+Make sure you're logged into the Google account that has GSC ownership permissions.
+
+### ✨ Tip #4: Domain Property vs URL Prefix
+- **Domain Property** (Recommended): Covers all subdomains and protocols
+- **URL Prefix**: Specific subdomain or protocol only
+
+### ✨ Tip #5: Keep GSC Open
+Have Google Search Console open in another tab to verify the data matches.
+
+---
+
+## ❓ Troubleshooting
+
+### "No Properties Found"
+**Possible causes:**
+- ✅ Wrong Google account selected
+- ✅ Properties not verified in GSC
+- ✅ Insufficient permissions (need Owner or Full User)
+
+**Solution:**
+1. Visit [Google Search Console](https://search.google.com/search-console)
+2. Verify you see your properties there
+3. Check your permission level
+4. Try connecting again with the correct account
+
+### "Authorization Failed"
+**Possible causes:**
+- ✅ Pop-up blocker interfering
+- ✅ Browser privacy settings too strict
+- ✅ Cookies disabled
+
+**Solution:**
+1. Enable pop-ups for copyrocket.ai
+2. Try in incognito/private mode
+3. Use a different browser
+4. Clear browser cache
+
+### "Data Not Syncing"
+**Possible causes:**
+- ✅ New property (no historical data)
+- ✅ GSC API rate limits
+- ✅ Token expired
+
+**Solution:**
+1. Wait 5-10 minutes and refresh
+2. Disconnect and reconnect property
+3. Contact support if issue persists
+
+### "Insufficient Permissions"
+**You need at least "Full User" access in GSC.**
+
+**To check permissions:**
+1. Open [Google Search Console](https://search.google.com/search-console)
+2. Click **Settings** (gear icon)
+3. Click **Users and Permissions**
+4. Verify your permission level
+
+---
+
+## 🔐 Privacy & Security
+
+### What Data Do We Access?
+- ✅ Search performance data (queries, clicks, impressions)
+- ✅ Page performance data
+- ✅ Device and country breakdowns
+- ✅ Search appearance data
+
+### What We DON'T Access:
+- ❌ Your Google password
+- ❌ Other Google services (Gmail, Drive, etc.)
+- ❌ Personal information beyond GSC data
+- ❌ Ability to modify your site
+
+### Data Security:
+- 🔒 All data encrypted in transit and at rest
+- 🔒 OAuth 2.0 secure authorization
+- 🔒 Tokens stored securely
+- 🔒 GDPR compliant
+
+### Revoking Access:
+You can revoke access anytime:
+1. Visit [Google Account Permissions](https://myaccount.google.com/permissions)
+2. Find "Copyrocket AI"
+3. Click **"Remove Access"**
+
+---
+
+## 🎯 Data Refresh Schedule
+
+| Data Type | Refresh Frequency |
+|-----------|------------------|
+| Dashboard Metrics | Every 4 hours |
+| Keyword Data | Daily |
+| Position Tracking | Daily |
+| Historical Data | Weekly |
+| AI Insights | On-demand + Daily |
+
+---
+
+## 🚀 Next Steps
+
+✅ Property connected? Awesome! Now:
+
+1. **[Explore Your Dashboard →](./03-dashboard-overview.md)**
+2. Learn what each metric means
+3. Run your first SEO audit
+
+---
+
+## 💬 Still Having Issues?
+
+- 📧 Email: support@copyrocket.ai
+- 🎫 Open a support ticket in your dashboard
+- 💭 Check our [Troubleshooting Guide](../faq/troubleshooting.md)
+
+---
+
+<div align="center">
+  <p><a href="./01-sign-up.md">← Back: Sign Up</a> | <a href="./03-dashboard-overview.md">Next: Dashboard Overview →</a></p>
+</div>
