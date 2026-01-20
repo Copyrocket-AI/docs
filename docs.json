@@ -20,7 +20,8 @@
       {
         "group": "Getting Started",
         "pages": [
-          "signup"
+          "signup",
+          "connect-google-search-console"
         ]
       }
     ]
