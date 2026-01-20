@@ -21,7 +21,14 @@
       },
       {
         "group": "Features",
-        "pages": []
+        "pages": [
+          {
+            "group": "Agents",
+            "pages": [
+              "features/agents/autoblogging"
+            ]
+          }
+        ]
       }
     ]
   },
