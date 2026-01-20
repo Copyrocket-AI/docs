@@ -8,12 +8,19 @@
     "dark": "#9d1afb"
   },
   "navigation": {
+    "global": {
+      "tabs": [
+        {
+          "tab": "Feature",
+          "href": ""
+        }
+      ]
+    },
     "groups": [
       {
         "group": "Getting Started",
         "pages": [
-          "main",
-          "copyrocket-ai-documentation"
+          "main"
         ]
       }
     ]
