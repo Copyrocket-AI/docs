@@ -14,7 +14,9 @@
         "group": "Getting Started",
         "pages": [
           "signup",
-          "connect-google-search-console"
+          "connect-google-search-console",
+          "dashboard",
+          "first-step-with-copyrocket"
         ]
       },
       {
