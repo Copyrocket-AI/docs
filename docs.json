@@ -25,7 +25,14 @@
         "icon": "aperture",
         "pages": [
           {
+            "group": "Keywords",
+            "icon": "key",
+            "expanded": true,
+            "pages": []
+          },
+          {
             "group": "CRM",
+            "expanded": true,
             "pages": [
               "features/crm/trends-watch",
               "features/crm/tasks"
@@ -34,6 +41,7 @@
           {
             "group": "Agents",
             "icon": "user-robot-xmarks",
+            "expanded": true,
             "pages": [
               "features/agents/autoblogging"
             ]
