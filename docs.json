@@ -8,21 +8,18 @@
     "dark": "#9d1afb"
   },
   "navigation": {
-    "global": {
-      "tabs": [
-        {
-          "tab": "Feature",
-          "href": ""
-        }
-      ]
-    },
-    "groups": [
+    "pages": [
+      "welcome",
       {
         "group": "Getting Started",
         "pages": [
           "signup",
           "connect-google-search-console"
         ]
+      },
+      {
+        "group": "Features",
+        "pages": []
       }
     ]
   },
