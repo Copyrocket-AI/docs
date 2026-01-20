@@ -25,6 +25,12 @@
         "icon": "aperture",
         "pages": [
           {
+            "group": "CRM",
+            "pages": [
+              "features/crm/trends-watch"
+            ]
+          },
+          {
             "group": "Agents",
             "icon": "user-robot-xmarks",
             "pages": [
