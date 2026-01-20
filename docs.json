@@ -12,6 +12,7 @@
       "welcome",
       {
         "group": "Getting Started",
+        "icon": "angle-right",
         "pages": [
           "signup",
           "connect-google-search-console",
@@ -21,9 +22,11 @@
       },
       {
         "group": "Features",
+        "icon": "aperture",
         "pages": [
           {
             "group": "Agents",
+            "icon": "user-robot-xmarks",
             "pages": [
               "features/agents/autoblogging"
             ]
