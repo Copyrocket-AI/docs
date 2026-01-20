@@ -1,0 +1,34 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Copyrocket AI Documentation",
+  "colors": {
+    "primary": "#9f60ff",
+    "light": "#33bbff",
+    "dark": "#9d1afb"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": []
+      }
+    ]
+  },
+  "description": "Discover and Learn What Copyrocket AI Has to offer in our detailed documented guidelines.",
+  "favicon": "/images/copyrocket-favicon.png",
+  "logo": "/images/copylogolight(1).png",
+  "appearance": {
+    "default": "light"
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/Copyrocket-AI/",
+      "x": "https://x.com/imramanpalsingh",
+      "youtube": "https://www.youtube.com/@copywithrocket",
+      "facebook": "https://facebook.com/copywithrocket",
+      "instagram": "https://instagram.com/copywithrocket",
+      "website": "https://copyrocket.ai"
+    }
+  }
+}
