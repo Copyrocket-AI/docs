@@ -12,6 +12,7 @@
       {
         "group": "Getting Started",
         "pages": [
+          "main",
           "copyrocket-ai-documentation"
         ]
       }
