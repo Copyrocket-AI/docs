@@ -37,7 +37,8 @@
             "icon": "key",
             "expanded": true,
             "pages": [
-              "features/keywords/keyword-research"
+              "features/keywords/keyword-research",
+              "features/keywords/competitors-keyword-research"
             ]
           },
           {
