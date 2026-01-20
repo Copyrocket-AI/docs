@@ -27,7 +27,8 @@
           {
             "group": "CRM",
             "pages": [
-              "features/crm/trends-watch"
+              "features/crm/trends-watch",
+              "features/crm/tasks"
             ]
           },
           {
