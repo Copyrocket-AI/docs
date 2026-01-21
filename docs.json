@@ -38,6 +38,7 @@
             "expanded": true,
             "pages": [
               "features/keywords/keyword-research",
+              "features/keywords/topical-map",
               "features/keywords/competitors-keyword-research"
             ]
           },
