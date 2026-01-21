@@ -35,17 +35,15 @@
           {
             "group": "Keywords",
             "icon": "key",
-            "expanded": true,
             "pages": [
               "features/keywords/keyword-research",
-              "features/keywords/topical-map",
-              "features/keywords/competitors-keyword-research"
+              "features/keywords/competitors-keyword-research",
+              "features/keywords/topical-map"
             ]
           },
           {
             "group": "Agents",
             "icon": "user-robot-xmarks",
-            "expanded": true,
             "pages": [
               "features/agents/autoblogging"
             ]
