@@ -29,12 +29,13 @@
             "icon": "chart-column",
             "pages": [
               "features/seo/gsc-audit",
-              "features/seo/serp-analysis",
-              "features/seo/site-audit"
+              "features/seo/site-audit",
+              "features/seo/core-web-vitals"
             ]
           },
           {
             "group": "CRM",
+            "icon": "person-shelter",
             "expanded": true,
             "pages": [
               "features/crm/trends-watch",
@@ -47,7 +48,8 @@
             "pages": [
               "features/keywords/keyword-research",
               "features/keywords/competitors-keyword-research",
-              "features/keywords/topical-map"
+              "features/keywords/topical-map",
+              "features/seo/serp-analysis"
             ]
           },
           {
