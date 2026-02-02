@@ -25,6 +25,14 @@
         "icon": "aperture",
         "pages": [
           {
+            "group": "SEO",
+            "icon": "chart-column",
+            "pages": [
+              "features/seo/serp-analysis",
+              "features/seo/site-audit"
+            ]
+          },
+          {
             "group": "CRM",
             "expanded": true,
             "pages": [

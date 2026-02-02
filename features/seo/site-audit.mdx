@@ -1,0 +1,270 @@
+---
+title: "Site Audit"
+description: "This documentation explains how to use the Site Audit feature to crawl a website, detect technical SEO issues, and prioritize fixes."
+---
+
+
+Login: https://ma.copyrocket.ai/login
+
+<iframe src="https://www.youtube.com/embed/FFXVNXzfuJM" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
+
+---
+
+## What Site Audit does
+
+Site Audit crawls your website pages and generates:
+
+- A site health score (overall quality indicator)
+- A prioritized issues list (what to fix first)
+- Page-level details (meta, canonical, status codes, content metrics)
+- Crawl configuration options (rendering, JavaScript, crawl limits)
+
+It is designed for quick wins first, then scalable crawls for bigger sites.
+
+---
+
+## Best use cases
+
+- New client onboarding audit (first 10 to 100 pages)
+- Finding duplicate meta, canonical, redirect chains, broken links
+- Checking clean URL patterns (slug rules)
+- Validating indexability signals (canonical, duplicates)
+- Basic content quality signals (word count, readability, text ratio)
+- Comparing before and after improvements (run again after fixes)
+
+---
+
+## Quick start
+
+1. Login
+   - https://ma.copyrocket.ai/login
+2. Connect Google Search Console (recommended)
+   - Select your Google account
+   - Choose the property (domain or URL-prefix)
+3. Configure crawl settings
+   - Enable browser rendering if your site is JS heavy
+   - Enable JavaScript if content loads dynamically
+   - Set crawl limit (start small, scale up later)
+4. Run the audit
+   - Wait for crawling and processing to complete
+5. Review results
+   - Check score
+   - Open the Issues section
+   - Review page-level details and affected URLs
+   - Fix the highest impact items first
+   - Re-run to confirm improvements
+
+---
+
+## Crawl settings explained
+
+### Browser rendering
+
+Use this when:
+
+- Your site is built with React, Next.js, Vue, Angular
+- Content appears only after the page loads
+- You want the crawler to see what a real browser sees
+
+If your site is mostly static HTML, you can keep it off for faster crawls.
+
+### Enable JavaScript
+
+Use this when:
+
+- Important text, links, or metadata are injected by JS
+- You want to detect issues that only appear after hydration
+
+JS crawling is slower, but more accurate for modern sites.
+
+### Max pages (crawl limit)
+
+Recommended approach:
+
+- Phase 1: 10 pages (smoke test)
+- Phase 2: 100 pages (quick wins, top templates)
+- Phase 3: 1,000+ pages (full audit, large site)
+
+Start small to validate settings, then scale.
+
+---
+
+## What you get in the report
+
+### 1) Site Score
+
+A summarized health indicator based on detected problems and severity.
+
+How to use it:
+
+- Treat it as a direction metric
+- Your goal is steady improvement, not perfection in one pass
+
+### 2) Issues list (prioritized)
+
+Issues are grouped and ranked by impact.
+
+Common issue types:
+
+- Duplicate meta titles
+- Duplicate meta descriptions
+- Non SEO friendly URLs (slug issues)
+- Canonical problems
+- Redirect and status code issues
+- Duplicate URLs or near-duplicates
+- Thin content signals (very low word count)
+- Broken internal links
+
+### 3) Page and content metrics
+
+Per page, you can review:
+
+- Word count
+- Text ratio (text vs markup)
+- Readability signals
+- Link counts (internal and external)
+- Status codes and redirects
+
+---
+
+## How to prioritize fixes (recommended order)
+
+### Priority 1 (highest impact)
+
+- 4xx pages (broken pages)
+- 5xx pages (server issues)
+- Redirect chains and loops
+- Canonical mismatches that cause duplication
+- Duplicate titles on important pages
+
+### Priority 2 (high ROI)
+
+- Duplicate meta descriptions on important pages
+- Non clean URL patterns (query spam, weird slugs, unnecessary params)
+- Missing or inconsistent canonical tags
+
+### Priority 3 (quality improvements)
+
+- Very thin pages that should rank
+- Low readability pages in informational sections
+- Pages with weak internal linking
+
+---
+
+## Fix guidance (fast explanations)
+
+### Duplicate meta title
+
+Why it matters:
+
+- Confuses search engines about which page should rank
+- Can reduce CTR if SERP titles look repetitive
+
+Fix:
+
+- Write unique titles per page template
+- Ensure category, product, and blog templates generate unique variables
+
+### Duplicate meta description
+
+Fix:
+
+- Use page-specific summaries
+- For templates, auto-generate with unique page fields
+
+### Canonical issues
+
+Symptoms:
+
+- Multiple URLs show the same content
+- Canonical points to wrong page or missing
+
+Fix:
+
+- Ensure one canonical URL per content
+- Normalize trailing slash rules
+- Control URL parameters (filter pages, tracking params)
+
+### Non SEO friendly URLs
+
+Examples:
+
+- Random IDs, unreadable slugs
+- Long query strings for indexable pages
+
+Fix:
+
+- Use short, descriptive slugs
+- Remove unnecessary params
+- Standardize URL structure across templates
+
+### Redirect issues
+
+Fix:
+
+- Update internal links to final destination
+- Avoid chains, keep to 1 hop
+- Use 301 for permanent moves
+
+---
+
+## Recommended workflow for agencies and freelancers
+
+1. Run 10-page audit first
+2. Fix obvious blockers (status codes, canonical disasters)
+3. Run 100-page audit
+4. Fix template-level issues (meta duplication, URL rules)
+5. Run full crawl (1,000+)
+6. Export findings into tasks for the dev team
+7. Re-run audits after each fix batch
+
+---
+
+## Troubleshooting
+
+### Crawl shows missing content
+
+- Enable browser rendering
+- Enable JavaScript
+- Increase crawl delay if available
+- Confirm pages are not blocked by robots.txt or WAF
+
+### Audit is slow
+
+- Reduce max pages
+- Turn off JS if site is mostly static
+- Start with a smaller sample (top templates)
+
+### Results show many duplicates
+
+- Check trailing slash consistency
+- Check www vs non-www
+- Check HTTP vs HTTPS
+- Check parameters and filter URLs
+
+---
+
+## FAQ
+
+### Can I run audits without GSC?
+
+Yes. GSC connection helps with better context, but crawling still works.
+
+### How often should I run audits?
+
+- After major releases
+- Weekly for fast-moving sites
+- Monthly for stable sites
+- Immediately after fixing technical issues to confirm improvements
+
+### What is the ideal first audit size?
+
+10 pages. It helps you validate settings before you crawl 1,000 pages.
+
+---
+
+## Changelog notes (optional to maintain)
+
+- v1: Initial Site Audit module documentation
+- v1.1: Added JS and rendering guidance
+- v1.2: Added prioritization framework
