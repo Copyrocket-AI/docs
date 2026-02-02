@@ -15,8 +15,8 @@
         "icon": "angle-right",
         "pages": [
           "signup",
-          "connect-google-search-console",
           "dashboard",
+          "connect-google-search-console",
           "first-step-with-copyrocket"
         ]
       },
@@ -28,6 +28,7 @@
             "group": "SEO",
             "icon": "chart-column",
             "pages": [
+              "features/seo/gsc-audit",
               "features/seo/serp-analysis",
               "features/seo/site-audit"
             ]
